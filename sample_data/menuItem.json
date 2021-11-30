@@ -1,0 +1,57 @@
+{
+    "-MjX7e1Y-jXcJzlgEKHO" : {
+      "description" : "Extra Pepporni Pizza",
+      "firebaseKey" : "-MjX7e1Y-jXcJzlgEKHO",
+      "itemPrice" : 10,
+      "menuItem" : "Extra Pepporni Pizza"
+    },
+    "-MjX7plHF4zfL0Viz6-E" : {
+      "description" : "Medium Wings",
+      "firebaseKey" : "-MjX7plHF4zfL0Viz6-E",
+      "itemPrice" : 8,
+      "menuItem" : "Medium Wings"
+    },
+    "-MjX7yZmfaDN0qQyJe-4" : {
+      "description" : "Buffalo Chicken Pizza",
+      "firebaseKey" : "-MjX7yZmfaDN0qQyJe-4",
+      "itemPrice" : 25,
+      "menuItem" : "Buffalo Chicken Pizza"
+    },
+    "-MjX838zRCKaW0EvEtID" : {
+      "description" : "911 Hot Wings",
+      "firebaseKey" : "-MjX838zRCKaW0EvEtID",
+      "itemPrice" : 30,
+      "menuItem" : "911 Hot Wings"
+    },
+    "-MjX8A7b7X2H-T10WAiI" : {
+      "description" : "BBQ Wings",
+      "firebaseKey" : "-MjX8A7b7X2H-T10WAiI",
+      "itemPrice" : 15,
+      "menuItem" : "BBQ Wings "
+    },
+    "-MjX8E5AgtJFWLjN3qjR" : {
+      "description" : "Pizza",
+      "firebaseKey" : "-MjX8E5AgtJFWLjN3qjR",
+      "itemPrice" : 20,
+      "menuItem" : "Pizza"
+    },
+    "-MjX8Hnyv95IbA15gN" : {
+      "description" : "Buffalo Wings",
+      "firebaseKey" : "-MjX8Hnyv95IbA15gN",
+      "itemPrice" : 20,
+      "menuItem" : "Buffalo Wings"
+    },
+    "-MjX8LHGVFJXJhYT1YlX" : {
+      "description" : "Deep Dish Pizza",
+      "firebaseKey" : "-MjX8LHGVFJXJhYT1YlX",
+      "itemPrice" : 20,
+      "menuItem" : "Deep Dish Pizza"
+    },
+    "-MjX8Sd7EKeeQ1sWFHEe" : {
+      "description" : "Hot Wings",
+      "firebaseKey" : "-MjX8Sd7EKeeQ1sWFHEe",
+      "itemPrice" : 14,
+      "menuItem" : "Hot Wings"
+    }
+  }
+  
