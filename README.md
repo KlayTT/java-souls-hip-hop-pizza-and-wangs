@@ -1,4 +1,4 @@
-# Hip Hop Pizza and Wangs - Java Souls [![Netlify Status](https://api.netlify.com/api/v1/badges/23892ce3-272f-4649-8a4f-330445cd8820/deploy-status)](https://app.netlify.com/sites/amazing-wright-8eac2c/deploys)
+# Hip Hop Pizza and Wangs - Java Souls [![Netlify Status](https://api.netlify.com/api/v1/badges/be56c4a1-574b-4ba7-a3cf-d01fd50649ab/deploy-status)](https://app.netlify.com/sites/java-souls-hip-hop-pizza-and-wangs/deploys)
 <!-- update the netlify badge above with your own badge that you can find at netlify under settings/general#status-badges -->
 
 This app is for a Ma and Pa restaurant named Hip, Hop, Pizza, and Wangs. Their concept is a crossroads of music and food and since the 2020 pandemic they needed to change their business model to accommodate and influx of call in and online orders. That’s where this app comes in! It is a point of sale application that will help keep track of their orders. 
